@@ -1,0 +1,10 @@
+database:
+  host: localhost
+  port: 3306
+  database: database
+  username: username
+  password: password
+tables:
+  vouchers: vouchers
+  offers: offers
+  history: history
